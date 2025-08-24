@@ -29,10 +29,10 @@
 <a> <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /></a> 
       <a> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /></a> 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ76FySvzs2U_10pOpIkfeCCnsi9kDXR1PhdA&s"
+      alt="MS sql server" width="40" height="40" /></a> 
       <a rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40" /></a>
+      src="https://miro.medium.com/1*x5ZIl_FUjkGQ8LKSYE1D6Q.jpeg" alt="Entity framework" width="40" height="40" /></a>
   <a> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /></a>
