@@ -27,7 +27,7 @@
       src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-icon-svg-png-download-1175240.png" alt="C#" width="40"
       height="40" /></a>
 <a> <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /></a> 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiUy70zRdd1DxGFYEsMIhsbGEm76sItNiLA&s" alt="ASP .NET core" width="40" height="40" /></a> 
       <a> <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ76FySvzs2U_10pOpIkfeCCnsi9kDXR1PhdA&s"
       alt="MS sql server" width="40" height="40" /></a> 
