@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-icon-svg-png-download-1175240.png" alt="C#" width="40"
       height="40" /></a>
 <a> <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /></a> 
